@@ -1,11 +1,11 @@
 # Dmytro Chykanenko
 
-## Contact Information
-- **Phone:** +487898897754 
+## Contact Information  
+- **Phone:** +48 789 889 7754  
 - **Email:** abcd@gmail.com  
-- **LinkedIn:** (https://en.wikipedia.org/wiki/LinkedIn)
-- **GitHub:** (https://github.com/Vesselredrex)
-- **Location:** Warsaw, Poland 
+- **LinkedIn:** [linkedin.com](https://www.linkedin.com)
+- **GitHub:** [github.com/Vesselredrex](https://github.com/Vesselredrex)  
+- **Location:** Warsaw, Poland  
 
 ---
 
