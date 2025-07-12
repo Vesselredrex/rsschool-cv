@@ -3,8 +3,8 @@
 ## Contact Information
 - **Phone:** +487898897754 
 - **Email:** abcd@gmail.com  
-- **LinkedIn:** [https://en.wikipedia.org/wiki/LinkedIn]
-- **GitHub:** [github.com/Vesselredrex](https://github.com/Vesselredrex]
+- **LinkedIn:** (https://en.wikipedia.org/wiki/LinkedIn)
+- **GitHub:** (https://github.com/Vesselredrex)
 - **Location:** Warsaw, Poland 
 
 ---
