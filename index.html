@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dmytro Chykanenko - Frontend Developer</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <h1>Dmytro Chykanenko - Frontend Developer CV</h1>
+    </header>
+
+    <div class="container">
+      <aside class="sidebar">
+        <div class="profile-header">
+          <img
+            src="photo.jpeg"
+            alt="Dmytro Chykanenko profile photo"
+            class="profile-photo"
+          >
+          <h2 class="profile-name">Dmytro Chykanenko</h2>
+          <p class="profile-title">Frontend Developer</p>
+          <div class="profile-summary">
+            I am an entry-level Frontend Developer passionate about modern web
+            technologies.
+          </div>
+        </div>
+
+        <section class="section">
+          <h2>Contact</h2>
+          <ul>
+            <li>
+              <strong>Email:</strong>
+              <a href="mailto:abcd@email.com">abcd@email.com</a>
+            </li>
+            <li>
+              <strong>GitHub:</strong>
+              <a
+                href="https://github.com/Vesselredrex"
+                target="_blank"
+                rel="noopener noreferrer"
+                >Vesselredrex</a
+              >
+            </li>
+            <li>
+              <strong>LinkedIn:</strong>
+              <a
+                href="https://www.linkedin.com/in/dmytro-chykanenko"
+                target="_blank"
+                rel="noopener noreferrer"
+                >Dmytro Chykanenko</a
+              >
+            </li>
+          </ul>
+        </section>
+
+        <section class="section">
+          <h2>Skills</h2>
+          <ul class="skills-grid">
+            <li class="skill-item">HTML5</li>
+            <li class="skill-item">CSS3</li>
+            <li class="skill-item">JavaScript</li>
+            <li class="skill-item">Python</li>
+            <li class="skill-item">Git</li>
+            <li class="skill-item">TypeScript</li>
+          </ul>
+        </section>
+      </aside>
+
+      <main class="main-content">
+        <section class="section">
+          <h2>About Me</h2>
+          <p>
+            I am a dedicated and enthusiastic Frontend Developer with a strong
+            foundation in modern web technologies. My journey in web development
+            started with a curiosity about how websites work, and it has evolved
+            into a passion for creating exceptional user experiences.
+          </p>
+          <p>
+            Currently expanding my knowledge through the Rolling Scopes School,
+            I am committed to continuous learning and staying up-to-date with
+            the latest industry trends and best practices.
+          </p>
+        </section>
+
+        <section class="section">
+          <h2>Code Example</h2>
+          <p>Here's a sample of my JavaScript code:</p>
+          <pre
+            class="code-example"
+          ><code>// Function to greet users with dynamic content
+function greetUser(name, timeOfDay = 'day') {
+  const greetings = {
+    morning: 'Good morning',
+    afternoon: 'Good afternoon',
+    evening: 'Good evening',
+    day: 'Hello'
+  };
+  return `${greetings[timeOfDay]}, ${name}! Welcome to my portfolio.`;
+}
+
+console.log(greetUser('Visitor', 'morning'));</code></pre>
+        </section>
+
+        <section class="section">
+          <h2>Projects</h2>
+          <ul class="projects-grid">
+            <li class="project-card">
+              <h3>CV Markdown</h3>
+              <p>
+                Simple CV created with Markdown as part of the RS School
+                curriculum.
+              </p>
+              <a
+                href="https://vesselredrex.github.io/rsschool-cv/cv"
+                target="_blank"
+                rel="noopener noreferrer"
+                >View on GitHub →</a
+              >
+            </li>
+            <li class="project-card">
+              <h3>Museum</h3>
+              <p>A responsive and semantic virtual museum site.</p>
+              <a
+                href="https://github.com/Vesselredrex/project2"
+                target="_blank"
+                rel="noopener noreferrer"
+                >View on GitHub →</a
+              >
+            </li>
+          </ul>
+        </section>
+
+        <section class="section">
+          <h2>Education</h2>
+          <div class="education-item">
+            <h3>Rolling Scopes School</h3>
+            <p>Frontend Development Course – Ongoing</p>
+          </div>
+          <div class="education-item">
+            <h3>Warsaw University</h3>
+            <p>2025</p>
+          </div>
+          <div class="education-item">
+            <h3>Languages</h3>
+            <p>English: B2 - Upper Intermediate</p>
+            <p>Polish: C1 - Advanced</p>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <footer class="footer">
+      <p>&copy; 2025 Dmytro Chykanenko. All rights reserved.</p>
+      <a
+        href="https://github.com/Vesselredrex"
+        target="_blank"
+        rel="noopener noreferrer"
+        >GitHub</a
+      >
+      <a href="https://rs.school/" target="_blank" rel="noopener noreferrer">
+        <img src="rs-school-logo.png" alt="RS School logo" width="80">
+      </a>
+    </footer>
+  </body>
+</html>
