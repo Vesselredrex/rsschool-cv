@@ -1,11 +1,11 @@
-# Your Name
+# Dmytro Chykanenko
 
 ![Photo](photo.jpeg)
 
 ## 📞 Contact Information
 
 - Location: Warsaw, Poland
-- Email: your.email@example.com
+- Email: john.doe@example.com
 - GitHub: https://github.com/your-username
 - Discord: your_nickname
 
@@ -23,13 +23,3 @@ I am a motivated and responsible beginner developer with a strong desire to lear
 - Version Control: Git, GitHub
 - Tools: VS Code, Chrome DevTools
 - Methodologies: Agile (basic understanding)
-
----
-
-## 💻 Code Example
-
-```javascript
-function multiply(a, b) {
-  return a * b;
-}
-```
