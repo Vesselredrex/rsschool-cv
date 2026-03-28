@@ -6,7 +6,7 @@
 
 - Location: Warsaw, Poland
 - Email: john.doe@example.com
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/Vesselredrex
 - Discord: your_nickname
 
 ---
