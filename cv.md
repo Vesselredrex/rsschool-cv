@@ -23,3 +23,11 @@ I am a motivated and responsible beginner developer with a strong desire to lear
 - Version Control: Git, GitHub
 - Tools: VS Code, Chrome DevTools
 - Methodologies: Agile (basic understanding)
+
+## 💻 Code Example
+
+```javascript
+function multiply(a, b) {
+  return a * b;
+}
+```
