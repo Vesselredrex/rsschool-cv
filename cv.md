@@ -11,23 +11,26 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I am a motivated and responsible beginner developer with a strong desire to learn and grow in the IT field. My goal is to become a professional frontend developer and work on real-world projects. I am quick to learn new technologies and enjoy solving complex problems.
 
 ---
 
-## 🛠 Skills
+## Skills
 
 - Languages: JavaScript, HTML, CSS
 - Version Control: Git, GitHub
 - Tools: VS Code, Chrome DevTools
 - Methodologies: Agile (basic understanding)
 
-## 💻 Code Example
+## Code Example
 
 ```javascript
 function multiply(a, b) {
   return a * b;
 }
+```
+```Python
+print('Hello World')
 ```
